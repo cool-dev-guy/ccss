@@ -1,6 +1,9 @@
 # ccss
 Bye HTML &amp; JS ,now make websites using CSS only.
 
+- demo : https://cool-dev-guy.github.io/ccss/demo.html
+- ccss(lib) : https://cool-dev-guy.github.io/ccss/src/v1/ccss.js
+
 ## Why?
 
 In todays era most of the modules like `tailwind-css`,`sass` etc are avoiding original css coding style.As a result `ccss` was created (its `cool-CSS`).
